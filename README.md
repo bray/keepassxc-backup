@@ -4,6 +4,8 @@
 
 Back up a snapshot of your KeePassXC database(s) to a local directory, and optionally sync backups to Proton Drive via `rclone`.
 
+Also see [bitwarden-backup](https://github.com/bray/bitwarden-backup) for a similar script that backs up your Bitwarden vault.
+
 ## Usage
 
 1. Install required dependencies:
