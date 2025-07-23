@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# Repository: https://github.com/bray/keepassxc-backup
 # KeePassXC Database Backup Script - Wrapper
 # SPDX-License-Identifier: MIT
 # Copyright (c) 2025 Brian Ray
